@@ -1,0 +1,46 @@
+.custStb {
+  margin: 10px auto;
+  width: 500px;
+}
+.custStb h1 {
+  text-align: center;
+  border-radius: 5px;
+  width: 100px;
+  margin: 3px auto;
+  background-color: rgb(134, 51, 90);
+  opacity: 2;
+  font-size: 20px;
+}
+
+#joinIcon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.info {
+  box-shadow: -5px 5px 10px rgba(0, 0, 0.3, 0.3),
+    5px -5px 10px rgba(0, 0, 0.3, 0.3);
+  background-color: plum;
+  display: flex;
+  border-radius: 10px;
+  padding-top: 6px;
+  padding-bottom: 15px;
+  width: 400px;
+  flex-wrap: wrap;
+  margin: 10px auto;
+  justify-content: center;
+}
+.info input {
+  border: 0;
+  border-radius: 3px;
+  background-color: white;
+  justify-items: flex-end;
+  margin-bottom: 5px;
+  width: 300px;
+}
+
+.info p {
+  font-size: small;
+  margin: 2px;
+}

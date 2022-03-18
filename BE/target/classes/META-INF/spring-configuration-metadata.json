@@ -1,0 +1,12 @@
+{
+  "groups": [
+    {
+      "name": "spring.datasource.master",
+      "type": "javax.sql.DataSource",
+      "sourceType": "com.cable.config.DBConfiguration",
+      "sourceMethod": "public javax.sql.DataSource getDataSource() "
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
